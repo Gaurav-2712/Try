@@ -46,8 +46,7 @@ void insert_first()
         head = ptr;
         printf("Node Inserted....\n");
         Display(head);
-    }
-    
+    } 
 }
 
 void insert_last()
