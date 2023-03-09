@@ -103,8 +103,7 @@ void Delete_last()
         free(head);
         printf("Element Deleted and Now Linkedlilst is Empty.....\n");
     }
-    else
-    {
+    else{
         ptr = head;
         while (ptr->next!=NULL)
         {
