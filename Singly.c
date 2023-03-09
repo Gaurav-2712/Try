@@ -196,7 +196,7 @@ void randominsert()
     Display(head);
 
 }
-
+// for direct chage in main brach
 void randomdelete()
 {
     struct Node *ptr,*ptr1;
