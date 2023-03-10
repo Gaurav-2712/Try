@@ -15,5 +15,3 @@ int getdata()
     return item;
 }
 // hello
-
-//the end
